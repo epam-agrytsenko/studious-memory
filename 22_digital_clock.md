@@ -1,6 +1,6 @@
 # Convert time into words
 
-Given a time in the format of hh:mm:ss (24-hour format), the task is to convert it into words.
+Given a time in the format of hh:mm:ss (24-hour format), the task is to convert time it into words.
 
 ## Requirements:
 1. **Input**: A string representing time in the format hh:mm:ss.
@@ -27,7 +27,6 @@ print(convert_time_to_words("12:00:00"))  # Output: "twelve hours"
 print(convert_time_to_words("12:13:59"))  # Output: "twelve hours, thirteen minutes, fifty-nine seconds"
 print(convert_time_to_words("00:00:00"))  # Output: "midnight"
 print(convert_time_to_words("01:00:00"))  # Output: "one hour"
-print(convert_time_to_words("00:01:00"))  # Output: "one minute"
 print(convert_time_to_words("00:00:01"))  # Output: "one second"
 print(convert_time_to_words("01:01:01"))  # Output: "one hour, one minute, one second"
 ```
