@@ -1,0 +1,32 @@
+[
+    {
+        "title": "The Great Gatsby",
+        "publisher": "Charles Scribner's Sons",
+        "year": 1925,
+        "short_description": "A novel set in the Jazz Age that explores themes of resistance to change, excess, and social upheaval."
+    },
+    {
+        "title": "1984",
+        "publisher": "Secker & Warburg",
+        "year": 1949,
+        "short_description": "A dystopian novel presenting a future society under perpetual surveillance and authoritarian rule."
+    },
+    {
+        "title": "To Kill a Mockingbird",
+        "publisher": "J. B. Lippincott & Co.",
+        "year": 1960,
+        "short_description": "A deeply moving story that explores themes of racial injustice and moral growth in the American South."
+    },
+    {
+        "title": "Pride and Prejudice",
+        "publisher": "T. Egerton, Whitehall",
+        "year": 1813,
+        "short_description": "A romantic novel of manners that delves into issues of marriage, morality, and misconceptions."
+    },
+    {
+        "title": "The Catcher in the Rye",
+        "publisher": "Little, Brown and Company",
+        "year": 1951,
+        "short_description": "A novel about teenage rebellion and alienation, following a young protagonist's journey through New York City."
+    }
+]
