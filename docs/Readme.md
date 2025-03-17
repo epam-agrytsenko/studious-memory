@@ -140,3 +140,20 @@ In the AWS Management Console, type `lambda` into the search bar in the top-righ
     </details>
 
 
+### Deleting a function
+
+1. In top-right corner select `Actions -> Delete function`
+2. Type `confirm`
+3. Once function deleted, check in browser that function is no longer accessible via URL
+
+<details>
+  <summary>Example</summary>
+  
+  ![Delete](images/aws_lambda_delete_function.png "Delete")
+
+</details>
+
+
+
+
+
